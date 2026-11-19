@@ -1,0 +1,1 @@
+QSpoof X cloud-build starter. Upload this folder to GitHub, then run Actions > Build QSpoof X APK > Run workflow. Download the APK from the completed workflow's Artifacts section. Profiles are UI-only in this starter.
